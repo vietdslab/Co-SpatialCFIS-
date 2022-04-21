@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameter>
+    <FCM>
+        <t>
+            15
+        </t>
+        <c>
+            5
+        </c>
+        <m>
+            2 
+        </m>
+        <eps>
+            0.01
+        </eps>
+    </FCM>
+    <Adam>
+        <LearningRate>
+            0.05
+        </LearningRate>
+        <iteration>
+            5000
+        </iteration>
+        <threshold>
+            0.0001
+        </threshold>
+        <momentum>
+            0.1
+        </momentum>
+        <beta1>
+            0.9
+        </beta1>
+        <beta2>
+            0.999
+        </beta2>
+    </Adam>
+</parameter>

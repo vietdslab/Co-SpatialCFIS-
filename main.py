@@ -1,0 +1,3 @@
+import VinaSupportModule
+
+VinaSupportModule.main()
